@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Cocamar",
+    "slug": "Cocamar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "ios": {
+      "bundleIdentifier": "com.woen.cocamar",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.woen.cocamar",
+      "versionCode": 1
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
